@@ -1,0 +1,504 @@
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\RPGLogo.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\GRASS.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\ROCK.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\GRASS.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\ROCK.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingBack.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingFront.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\GRASS.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\ROCK.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingBack.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingFront.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\GRASS.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\ROCK.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\GRASS.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\ROCK.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingBack.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingFront.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingBack.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingFront.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingLeft.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\WalkingRight.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\defenseicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\healthicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\intelligenceicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\mageicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\rangeicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\speedicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\swordicon.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile51.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile52.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile53.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile54.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile55.xnb
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile56.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\menufont.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gamefont.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\defenseicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\healthicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\intelligenceicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\mageicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\rangeicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\speedicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\swordicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile51.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile52.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile53.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile54.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile55.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile56.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object1.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Dafunk2.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingBack.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingFront.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingLeft.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingRight.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\defenseicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\healthicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\intelligenceicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\mageicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\rangeicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\speedicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\swordicon.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object1.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile51.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile52.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile53.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile54.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile55.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile56.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingBack.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingFront.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingLeft.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingRight.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingBack.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingFront.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingLeft.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingRight.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingBack.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingFront.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingLeft.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingRight.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingBack.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingFront.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingLeft.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingRight.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingBack.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingFront.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingLeft.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingRight.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\Dafunk2.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.ExcludeMe.resources
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\defenseicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\healthicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\intelligenceicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\mageicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\rangeicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\speedicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\swordicon.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object1.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile51.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile52.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile53.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile54.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile55.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile56.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingBack.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingFront.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingLeft.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingRight.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\Dafunk2.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.ExcludeMe.resources
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\statsbar.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\combatfont.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\playerInfo.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\player.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object2.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object3.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object4.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object5.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object6.xnb
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\tilesss.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingBack.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingFront.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingLeft.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingRight.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\defenseicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\healthicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\intelligenceicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\mageicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\rangeicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\speedicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\swordicon.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile51.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile52.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile53.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile54.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile55.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile56.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingBack.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingFront.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingLeft.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingRight.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingBack.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingFront.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingLeft.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingRight.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingBack.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingFront.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingLeft.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingRight.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingBack.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingFront.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingLeft.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingRight.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingBack.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingFront.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingLeft.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingRight.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\Dafunk2.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\gamefont.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\statsbar.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\playerInfo.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object1.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object2.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object3.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object4.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object5.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object6.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\tilesss.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\combatfont.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\player.xnb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.ExcludeMe.resources
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.UserInfo.resources
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.exe
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\obj\x86\Debug\AnyRPG.pdb
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gg.xnb

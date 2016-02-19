@@ -1,0 +1,676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>MAIN_MENU.png</Source>
+      <Name>MAIN_MENU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\MAIN_MENU.xnb</Output>
+      <Time>2014-01-21T12:27:45.984375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>white.png</Source>
+      <Name>white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\white.xnb</Output>
+      <Time>2014-01-21T12:27:46.515625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameObjects\bighouse.png</Source>
+      <Name>gameObjects\bighouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\bighouse.xnb</Output>
+      <Time>2014-01-21T12:27:45.859375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameObjects\deadtree.png</Source>
+      <Name>gameObjects\deadtree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\deadtree.xnb</Output>
+      <Time>2014-01-21T12:27:45.875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameObjects\fountain.png</Source>
+      <Name>gameObjects\fountain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\fountain.xnb</Output>
+      <Time>2014-01-21T12:27:45.890625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameObjects\house.png</Source>
+      <Name>gameObjects\house</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\house.xnb</Output>
+      <Time>2014-01-21T12:27:45.890625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gameObjects\tree.png</Source>
+      <Name>gameObjects\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gameObjects\tree.xnb</Output>
+      <Time>2014-01-21T12:27:45.921875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile1.png</Source>
+      <Name>Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile1.xnb</Output>
+      <Time>2014-01-21T12:27:46.078125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile2.png</Source>
+      <Name>Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile2.xnb</Output>
+      <Time>2014-01-21T12:27:46.09375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>charSprite.png</Source>
+      <Name>charSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\charSprite.xnb</Output>
+      <Time>2014-01-21T12:27:45.734375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>king.png</Source>
+      <Name>king</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\king.xnb</Output>
+      <Time>2014-01-21T12:27:45.953125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>container.png</Source>
+      <Name>container</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\container.xnb</Output>
+      <Time>2014-01-21T12:27:45.765625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>healthBar.png</Source>
+      <Name>healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\healthBar.xnb</Output>
+      <Time>2014-01-21T12:27:45.9375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>npc5.png</Source>
+      <Name>npc5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\npc5.xnb</Output>
+      <Time>2014-01-21T12:27:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Male\WalkingBack.png</Source>
+      <Name>characterSprites\Warrior\Male\WalkingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingBack.xnb</Output>
+      <Time>2014-01-21T12:27:45.6875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Male\WalkingFront.png</Source>
+      <Name>characterSprites\Warrior\Male\WalkingFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingFront.xnb</Output>
+      <Time>2014-01-21T12:27:45.703125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Male\WalkingLeft.png</Source>
+      <Name>characterSprites\Warrior\Male\WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingLeft.xnb</Output>
+      <Time>2014-01-21T12:27:45.71875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Male\WalkingRight.png</Source>
+      <Name>characterSprites\Warrior\Male\WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Male\WalkingRight.xnb</Output>
+      <Time>2014-01-21T12:27:45.71875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>combatBackground.PNG</Source>
+      <Name>combatBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\combatBackground.xnb</Output>
+      <Time>2014-01-21T12:27:45.75-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile3.png</Source>
+      <Name>Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tile3.xnb</Output>
+      <Time>2014-01-21T12:27:46.109375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\defenseicon.png</Source>
+      <Name>abilityIcons\defenseicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\defenseicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.1875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\healthicon.png</Source>
+      <Name>abilityIcons\healthicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\healthicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.1875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\intelligenceicon.png</Source>
+      <Name>abilityIcons\intelligenceicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\intelligenceicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.203125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\mageicon.png</Source>
+      <Name>abilityIcons\mageicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\mageicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.21875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\rangeicon.png</Source>
+      <Name>abilityIcons\rangeicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\rangeicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.234375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\speedicon.png</Source>
+      <Name>abilityIcons\speedicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\speedicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.25-05:00</Time>
+    </Item>
+    <Item>
+      <Source>abilityIcons\swordicon.png</Source>
+      <Name>abilityIcons\swordicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\abilityIcons\swordicon.xnb</Output>
+      <Time>2014-01-21T12:27:45.265625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile1.png</Source>
+      <Name>Tiles\Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile1.xnb</Output>
+      <Time>2014-01-21T12:27:46.265625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile2.png</Source>
+      <Name>Tiles\Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile2.xnb</Output>
+      <Time>2014-01-21T12:27:46.265625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile3.png</Source>
+      <Name>Tiles\Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile3.xnb</Output>
+      <Time>2014-01-21T12:27:46.28125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile51.png</Source>
+      <Name>Tiles\Tile51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile51.xnb</Output>
+      <Time>2014-01-21T12:27:46.296875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile52.png</Source>
+      <Name>Tiles\Tile52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile52.xnb</Output>
+      <Time>2014-01-21T12:27:46.296875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile53.png</Source>
+      <Name>Tiles\Tile53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile53.xnb</Output>
+      <Time>2014-01-21T12:27:46.3125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile54.png</Source>
+      <Name>Tiles\Tile54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile54.xnb</Output>
+      <Time>2014-01-21T12:27:46.328125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile55.png</Source>
+      <Name>Tiles\Tile55</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile55.xnb</Output>
+      <Time>2014-01-21T12:27:46.375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile56.png</Source>
+      <Name>Tiles\Tile56</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Tiles\Tile56.xnb</Output>
+      <Time>2014-01-21T12:27:46.484375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Male\WalkingBack.png</Source>
+      <Name>characterSprites\Mage\Male\WalkingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingBack.xnb</Output>
+      <Time>2014-01-21T12:27:45.375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Male\WalkingFront.png</Source>
+      <Name>characterSprites\Mage\Male\WalkingFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingFront.xnb</Output>
+      <Time>2014-01-21T12:27:45.390625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Male\WalkingLeft.png</Source>
+      <Name>characterSprites\Mage\Male\WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingLeft.xnb</Output>
+      <Time>2014-01-21T12:27:45.40625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Male\WalkingRight.png</Source>
+      <Name>characterSprites\Mage\Male\WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Male\WalkingRight.xnb</Output>
+      <Time>2014-01-21T12:27:45.40625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Female\WalkingBack.png</Source>
+      <Name>characterSprites\Mage\Female\WalkingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingBack.xnb</Output>
+      <Time>2014-01-21T12:27:45.296875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Female\WalkingFront.png</Source>
+      <Name>characterSprites\Mage\Female\WalkingFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingFront.xnb</Output>
+      <Time>2014-01-21T12:27:45.296875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Female\WalkingLeft.png</Source>
+      <Name>characterSprites\Mage\Female\WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingLeft.xnb</Output>
+      <Time>2014-01-21T12:27:45.3125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Mage\Female\WalkingRight.png</Source>
+      <Name>characterSprites\Mage\Female\WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Mage\Female\WalkingRight.xnb</Output>
+      <Time>2014-01-21T12:27:45.359375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Female\WalkingBack.png</Source>
+      <Name>characterSprites\Ranger\Female\WalkingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingBack.xnb</Output>
+      <Time>2014-01-21T12:27:45.421875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Female\WalkingFront.png</Source>
+      <Name>characterSprites\Ranger\Female\WalkingFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingFront.xnb</Output>
+      <Time>2014-01-21T12:27:45.4375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Female\WalkingLeft.png</Source>
+      <Name>characterSprites\Ranger\Female\WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingLeft.xnb</Output>
+      <Time>2014-01-21T12:27:45.453125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Female\WalkingRight.png</Source>
+      <Name>characterSprites\Ranger\Female\WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Female\WalkingRight.xnb</Output>
+      <Time>2014-01-21T12:27:45.453125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Male\WalkingBack.png</Source>
+      <Name>characterSprites\Ranger\Male\WalkingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingBack.xnb</Output>
+      <Time>2014-01-21T12:27:45.46875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Male\WalkingFront.png</Source>
+      <Name>characterSprites\Ranger\Male\WalkingFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingFront.xnb</Output>
+      <Time>2014-01-21T12:27:45.484375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Male\WalkingLeft.png</Source>
+      <Name>characterSprites\Ranger\Male\WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingLeft.xnb</Output>
+      <Time>2014-01-21T12:27:45.484375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Ranger\Male\WalkingRight.png</Source>
+      <Name>characterSprites\Ranger\Male\WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Ranger\Male\WalkingRight.xnb</Output>
+      <Time>2014-01-21T12:27:45.5-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Female\WalkingBack.png</Source>
+      <Name>characterSprites\Warrior\Female\WalkingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingBack.xnb</Output>
+      <Time>2014-01-21T12:27:45.515625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Female\WalkingFront.png</Source>
+      <Name>characterSprites\Warrior\Female\WalkingFront</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingFront.xnb</Output>
+      <Time>2014-01-21T12:27:45.53125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Female\WalkingLeft.png</Source>
+      <Name>characterSprites\Warrior\Female\WalkingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingLeft.xnb</Output>
+      <Time>2014-01-21T12:27:45.671875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>characterSprites\Warrior\Female\WalkingRight.png</Source>
+      <Name>characterSprites\Warrior\Female\WalkingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\characterSprites\Warrior\Female\WalkingRight.xnb</Output>
+      <Time>2014-01-21T12:27:45.671875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Dafunk2.bmp</Source>
+      <Name>Fonts\Dafunk2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\Dafunk2.xnb</Output>
+      <Time>2014-01-21T12:27:45.796875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\gamefont.bmp</Source>
+      <Name>Fonts\gamefont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\gamefont.xnb</Output>
+      <Time>2014-01-21T12:27:45.828125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>statsbar.png</Source>
+      <Name>statsbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\statsbar.xnb</Output>
+      <Time>2014-01-21T12:27:46.0625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>playerInfo.png</Source>
+      <Name>playerInfo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\playerInfo.xnb</Output>
+      <Time>2014-01-21T12:27:46.046875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileObjs\Object1.png</Source>
+      <Name>TileObjs\Object1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object1.xnb</Output>
+      <Time>2014-01-21T12:27:46.125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileObjs\Object2.png</Source>
+      <Name>TileObjs\Object2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object2.xnb</Output>
+      <Time>2014-01-21T12:27:46.140625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileObjs\Object3.png</Source>
+      <Name>TileObjs\Object3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object3.xnb</Output>
+      <Time>2014-01-21T12:27:46.15625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileObjs\Object4.png</Source>
+      <Name>TileObjs\Object4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object4.xnb</Output>
+      <Time>2014-01-21T12:27:46.171875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileObjs\Object5.png</Source>
+      <Name>TileObjs\Object5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object5.xnb</Output>
+      <Time>2014-01-21T12:27:46.1875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TileObjs\Object6.png</Source>
+      <Name>TileObjs\Object6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\TileObjs\Object6.xnb</Output>
+      <Time>2014-01-21T12:27:46.1875-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tilesss.png</Source>
+      <Name>tilesss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\tilesss.xnb</Output>
+      <Time>2014-01-21T12:27:46.5-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\combatfont.spritefont</Source>
+      <Name>Fonts\combatfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\combatfont.xnb</Output>
+      <Time>2014-01-21T12:27:45.78125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\player.spritefont</Source>
+      <Name>Fonts\player</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\Fonts\player.xnb</Output>
+      <Time>2014-01-21T12:27:45.828125-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gg.png</Source>
+      <Name>gg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\gg.xnb</Output>
+      <Time>2014-01-21T12:56:50.046875-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPG\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-22T14:01:45.640625-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

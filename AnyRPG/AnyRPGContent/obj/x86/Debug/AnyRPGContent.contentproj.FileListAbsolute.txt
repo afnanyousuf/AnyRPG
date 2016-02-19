@@ -1,0 +1,11 @@
+C:\Documents and Settings\Usman\My Documents\Visual Studio 2010\Projects\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\RPG GAME STUFF\VS2010Projects\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1caleonsam\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\AnyRPGContent.contentprojResolveAssemblyReference.cache
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\Desktop\rpggamee\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1yousufafn\My Documents\Downloads\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\Desktop\AnyRPGlatest2\AnyRPGlatest\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usman\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1noorkom\Desktop\AnyRPG\AnyRPG\AnyRPG\AnyRPG\AnyRPGContent\obj\x86\Debug\ResolveAssemblyReference.cache
